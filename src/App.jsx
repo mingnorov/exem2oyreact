@@ -15,6 +15,7 @@ const backgroundClasses = [
   "bg-gradient-to-r from-red-200 to-orange-300",
   "bg-gradient-to-r from-cyan-200 to-sky-300"
 ];
+//asd
 
 const App = () => {
   const [position, setPosition] = useState(getRandomPosition());
